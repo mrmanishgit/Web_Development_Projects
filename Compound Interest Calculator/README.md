@@ -16,7 +16,7 @@
 <ul>
   <li>Download or clone the repository</li>
 <pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+  git clone https://github.com/mrmanishgit/Web_Development_Projectss.git
 </code></pre>
   
   <li>Go to the directory compound-interest-calculator</li>
