@@ -10,7 +10,7 @@ This is a Height Converter webpage, which would convert one form of height to ot
 <li>Download or clone the repository</li>
 
 ```terminal
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects 
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 <li>Go to Height Converter</li>
 <li>Run the index.html in your browser</li>
