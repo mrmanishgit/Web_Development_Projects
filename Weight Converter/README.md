@@ -14,7 +14,7 @@ grams, pounds and ounces.
 # Set up required to run
 1. Clone the repository.
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 2. Move to project directory.
 
