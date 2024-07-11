@@ -24,7 +24,7 @@ Link : https://www.breakingbadapi.com/api/characters
 
 ## How to use the Project
 
-1. Download or clone the repository `git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git`
+1. Download or clone the repository `git clone https://github.com/mrmanishgit/Web_Development_Projects.git`
 2. Go to the directory
 3. Open the terminal, and type `npm start`
 
