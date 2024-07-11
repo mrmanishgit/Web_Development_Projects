@@ -16,7 +16,7 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 - [Author](#author)
 
 ## Overview
-
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ### The challenge
 
 Users should be able to:
@@ -67,5 +67,5 @@ storing shortened links.
 
 ## Author
 
-- Frontend Mentor - [@suraj-singh127](https://www.frontendmentor.io/profile/suraj-singh127)
-- Twitter - [@SurajSi75026934](https://twitter.com/SurajSi75026934)
+- Frontend Mentor - [@manishmaharana](https://www.frontendmentor.io/profile/manish-maharana720)
+- Twitter - [@manishmaharana](https://twitter.com/manishmaharana72052)
