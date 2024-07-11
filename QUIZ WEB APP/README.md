@@ -18,7 +18,7 @@ This is a basic HTML, CSS, JAVASCRIPT quiz app where user can answer the questio
 ---
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 
 - Go to the directory
