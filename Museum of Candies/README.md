@@ -8,6 +8,7 @@ CSS
 
 Steps to Use:
 Download or clone the repository
+- - - - - - - - - -- - - - - -- -  - -
 git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 Go to the directory
 Run the index.html file
