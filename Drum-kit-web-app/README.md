@@ -1,6 +1,6 @@
 <h1>Drum kit web app</h1>
 
-[Click here to see Live demo](https://ashwins-drum-kit.herokuapp.com/)
+[Click here to see Live demo](https://mrmanishgit/Web_Development_Projects.com/)
 
 ### Use of the Project:
 
@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/ashwintelmore/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 
 - Go to the directory
