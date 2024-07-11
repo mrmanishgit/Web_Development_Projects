@@ -16,7 +16,7 @@ npm install -g expo-cli
 ```
 - Now, clone this repo.
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects  
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git  
 ```
 - Move to project directory.
 - In your IDE terminal, run command:
