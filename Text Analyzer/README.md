@@ -12,7 +12,7 @@ The Text Analyzer analyze the text entered by the user. After clicking on the pr
 
 - Download or clone the repository
 `
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 `
 
 - Go to the Web-dev-mini-projects directory by running the command ` cd Web-dev-mini-projects ` in the terminal
