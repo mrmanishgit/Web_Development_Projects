@@ -19,7 +19,7 @@ It is a simple Dice Game. We can use this game to toss between two users and dec
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 
 - Go to the directory
