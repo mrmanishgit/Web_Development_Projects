@@ -16,7 +16,7 @@ This webpage converts temperatures from and to Celcius, Fahrenheit and Kelvin.
 
 - Open terminal / CMD to access git commands.
 - Enter this command:
-  `https://github.com/joshi-kaushal/Web-dev-mini-projects.git`
+  `https://github.com/mrmanishgit/Web_Development_Projects.git`
 - switch to _temp-convertor_ branch and open the folder named _Temperature Convertor_
 - run `index.html` file
 
