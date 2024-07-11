@@ -22,9 +22,9 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
 ```
 
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 - Go to the directory
 - Run the index.html file by copying the file path and pasting it in your browser
 - Upload The txt file
