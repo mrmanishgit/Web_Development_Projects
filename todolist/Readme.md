@@ -22,7 +22,8 @@
 
 * Clone the repository by running command
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 in your git bash.
 <br/>
