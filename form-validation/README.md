@@ -17,7 +17,7 @@ We can add this login form at start of any website to verify deatils.
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/mrmanishgit/Web_Development_Projects.git
 ```
 
 - Go to the directory
