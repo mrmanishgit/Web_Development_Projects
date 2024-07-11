@@ -6,9 +6,9 @@ Made with 💙 by Ahsan Ehtesham
 
 To support me:
 
-[Github](https://github.com/Ahsan-Ehtesham/)
+[Github](https://github.com/mrmanishgit/)
 
-[Linkedin](https://www.linkedin.com/in/ahsan-ehtesham-a6810018b/)
+[Linkedin](https://www.linkedin.com/in/manish-maharana-0855b6226/)
 
 ## Welcome! 👋
 
